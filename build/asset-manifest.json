@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vedanthvk07/Food-ordering-app.git/static/css/main.b1f97a82.css",
+    "main.js": "/Vedanthvk07/Food-ordering-app.git/static/js/main.4f664182.js",
+    "static/media/meals.jpg": "/Vedanthvk07/Food-ordering-app.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Vedanthvk07/Food-ordering-app.git/index.html",
+    "main.b1f97a82.css.map": "/Vedanthvk07/Food-ordering-app.git/static/css/main.b1f97a82.css.map",
+    "main.4f664182.js.map": "/Vedanthvk07/Food-ordering-app.git/static/js/main.4f664182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f97a82.css",
+    "static/js/main.4f664182.js"
+  ]
+}
