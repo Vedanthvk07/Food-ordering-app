@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Food-ordering-app/static/css/main.b1f97a82.css",
-    "main.js": "/Food-ordering-app/static/js/main.7bf57399.js",
-    "static/media/meals.jpg": "/Food-ordering-app/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/Food-ordering-app/index.html",
-    "main.b1f97a82.css.map": "/Food-ordering-app/static/css/main.b1f97a82.css.map",
-    "main.7bf57399.js.map": "/Food-ordering-app/static/js/main.7bf57399.js.map"
+    "main.css": "/github.com/Vedanthvk07/Food-ordering-app.git/static/css/main.b1f97a82.css",
+    "main.js": "/github.com/Vedanthvk07/Food-ordering-app.git/static/js/main.b652d272.js",
+    "static/media/meals.jpg": "/github.com/Vedanthvk07/Food-ordering-app.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/github.com/Vedanthvk07/Food-ordering-app.git/index.html",
+    "main.b1f97a82.css.map": "/github.com/Vedanthvk07/Food-ordering-app.git/static/css/main.b1f97a82.css.map",
+    "main.b652d272.js.map": "/github.com/Vedanthvk07/Food-ordering-app.git/static/js/main.b652d272.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f97a82.css",
-    "static/js/main.7bf57399.js"
+    "static/js/main.b652d272.js"
   ]
 }
